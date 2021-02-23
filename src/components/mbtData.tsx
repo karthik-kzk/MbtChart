@@ -1,0 +1,16 @@
+export const mbtData =[
+    {name:"u17",number:17,value:1,},
+    {name:"u16",number:16,value:0,},
+    {name:"u15",number:15,value:0,},
+    {name:"u14",number:14,value:0,},
+    {name:"u13",number:13,value:0,},
+    {name:"u12",number:12,value:0,},
+    {name:"u11",number:11,value:0,},
+    {name:"u21",number:21,value:0,},
+    {name:"u22",number:22,value:0,},
+    {name:"u23",number:23,value:0,},
+    {name:"u24",number:24,value:0,},
+    {name:"u25",number:25,value:0,},
+    {name:"u26",number:26,value:0,},
+    {name:"u27",number:27,value:0,},
+]
