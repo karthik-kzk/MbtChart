@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MbtChart/static/css/main.4a5e6c6e.chunk.css",
+    "main.js": "/MbtChart/static/js/main.9929aef6.chunk.js",
+    "main.js.map": "/MbtChart/static/js/main.9929aef6.chunk.js.map",
+    "runtime-main.js": "/MbtChart/static/js/runtime-main.df7ea5e6.js",
+    "runtime-main.js.map": "/MbtChart/static/js/runtime-main.df7ea5e6.js.map",
+    "static/js/2.6dc0c602.chunk.js": "/MbtChart/static/js/2.6dc0c602.chunk.js",
+    "static/js/2.6dc0c602.chunk.js.map": "/MbtChart/static/js/2.6dc0c602.chunk.js.map",
+    "static/js/3.5c1314e5.chunk.js": "/MbtChart/static/js/3.5c1314e5.chunk.js",
+    "static/js/3.5c1314e5.chunk.js.map": "/MbtChart/static/js/3.5c1314e5.chunk.js.map",
+    "index.html": "/MbtChart/index.html",
+    "static/css/main.4a5e6c6e.chunk.css.map": "/MbtChart/static/css/main.4a5e6c6e.chunk.css.map",
+    "static/js/2.6dc0c602.chunk.js.LICENSE.txt": "/MbtChart/static/js/2.6dc0c602.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df7ea5e6.js",
+    "static/js/2.6dc0c602.chunk.js",
+    "static/css/main.4a5e6c6e.chunk.css",
+    "static/js/main.9929aef6.chunk.js"
+  ]
+}
